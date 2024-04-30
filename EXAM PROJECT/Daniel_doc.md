@@ -8,10 +8,10 @@ the file "vagrant-master.sh" when runned/executed, spines up the two ubuntu mast
 ### 3. laravel deployment on master node
 the file "latest.sh" deploys laravel cloned from github repository only on the master node. https://github.com/laravel/laravel.
 
-![larave installation](<laravel installation.png>)
+![larave installation](<larave installation.png>)
 
 
-![larave page (192.168.56.2)](<larave (192.168.56.2).png>)
+![larave page (192.168.56.2)](<larave page (192.168.56.2).png>)
 
 
 ### 4. the ansible playbook
